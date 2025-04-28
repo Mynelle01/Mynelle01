@@ -7,7 +7,7 @@ I'm a passionate **Manufacturing Technical Engineer** with experience in **Failu
 - 🌱 Currently learning: **Machine Learning and Artificial Intelligence**
 - 🔭 Working on: **AI Prompt Design**
 - 🌍 Languages: **Python**
-- ⚡ Fun fact: **I am a Marvel movies fan**
+- ⚡ Fun fact: **I am a Marvel fan**
 
 ## My Skills 🧠
 
